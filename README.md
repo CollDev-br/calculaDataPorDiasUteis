@@ -33,3 +33,6 @@ echo diasUteis($diasUteisValor);
 ```
 
 - Ou adicione uma class e instancie através de outro documento pelo include.
+
+# v2
+- O v2 é uma opção para atender uma necessidade mais dinâmica, dessa forma optei em passar mais paramentro pela função para tornar a calculadora mais universal.
